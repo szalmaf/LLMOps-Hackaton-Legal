@@ -3,7 +3,7 @@ numpy==1.25.2
 openai==0.27.8
 python-dotenv==1.0.0
 wandb==0.15.11
-chroma
+chromadb
 langchain
 tiktoken
 pandas
